@@ -6,8 +6,8 @@
   "scripts": {
     "start": "node main.js"
   },
-  "dependencies": {},
-  "devDependencies": {
-    "@stellar/stellar-sdk": "^11.1.0"
-  }
+  "dependencies": {
+    "@stellar/stellar-sdk": "^11.2.0"
+  },
+  "devDependencies": {}
 }
