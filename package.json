@@ -1,0 +1,13 @@
+{
+  "name": "stellar-tests",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@stellar/stellar-sdk": "^11.1.0"
+  }
+}
